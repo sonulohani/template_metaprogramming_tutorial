@@ -3,4 +3,5 @@ project(template_metaprograming)
 
 add_subdirectory(step_1)
 add_subdirectory(step_2)
+add_subdirectory(step_3)
 
